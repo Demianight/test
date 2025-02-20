@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Query Form</title>
+    <style>
+        #error {
+            color: red;
+            display: none;
+        }
+        #responseContainer {
+            margin-top: 10px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <form id="queryForm">
+        <input type="text" id="queryInput" name="query" placeholder="Enter your query" required>
+        <button type="submit">Submit</button>
+    </form>
+    <p id="error">Request failed</p>
+    <div id="responseContainer">
+        <textarea id="responseText" rows="20" cols="80" readonly></textarea>
+        <button id="copyButton">Copy</button>
+    </div>
+    <script>
+        document.getElementById("queryForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            document.getElementById("error").style.display = "none";
+            document.getElementById("responseContainer").style.display = "none";
+            const queryText = encodeURIComponent(document.getElementById("queryInput").value);
+            fetch(`http://127.0.0.1:8000/?request_text=${queryText}`)
+                .then(response => {
+                    if (response.ok) {
+                        return response.json();
+                    } else {
+                        document.getElementById("error").style.display = "block";
+                        throw new Error('Request failed');
+                    }
+                })
+                .then(data => {
+                    const responseText = JSON.stringify(data, null, 2);
+                    document.getElementById("responseText").value = responseText;
+                    document.getElementById("responseContainer").style.display = "block";
+                })
+                .catch(error => console.error('Error:', error));
+        });
+
+        document.getElementById("copyButton").addEventListener("click", function() {
+            const responseText = document.getElementById("responseText");
+            responseText.select();
+            document.execCommand("copy");
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1541 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - the binding of isaac",
+                "totalResults": "22400000",
+                "searchTerms": "the binding of isaac",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "46e66450d9d134b59"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - the binding of isaac",
+                "totalResults": "22400000",
+                "searchTerms": "the binding of isaac",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "46e66450d9d134b59"
+            }
+        ]
+    },
+    "context": {
+        "title": "test_1"
+    },
+    "searchInformation": {
+        "searchTime": 0.502504,
+        "formattedSearchTime": "0.50",
+        "totalResults": "22400000",
+        "formattedTotalResults": "22,400,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Binding of Isaac on Steam",
+            "htmlTitle": "<b>The Binding of Isaac</b> on Steam",
+            "link": "https://store.steampowered.com/app/113200/The_Binding_of_Isaac/",
+            "displayLink": "store.steampowered.com",
+            "snippet": "The Binding of Isaac. Developer: Edmund McMillen, Florian Himsl. Publisher: Edmund McMillen. Released: Sep 28, 2011. Now 20% More Evil with the Free Halloween ...",
+            "htmlSnippet": "<b>The Binding of Isaac</b>. Developer: Edmund McMillen, Florian Himsl. Publisher: Edmund McMillen. Released: Sep 28, 2011. Now 20% More Evil with the Free Halloween&nbsp;...",
+            "formattedUrl": "https://store.steampowered.com/app/113200/The_Binding_of_Isaac/",
+            "htmlFormattedUrl": "https://store.steampowered.com/app/113200/<b>The_Binding_of_Isaac</b>/",
+            "pagemap": {
+                "offer": [
+                    {
+                        "pricecurrency": "USD",
+                        "price": "4.99"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrh1ipxKA7ofybWACksodzQbIYHEonf_MPFH_yFBDNNq1cSQq9Nj_BThI&s",
+                        "width": "297",
+                        "height": "170"
+                    }
+                ],
+                "product": [
+                    {
+                        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/capsule_231x87.jpg?t=1643480517",
+                        "name": "The Binding of Isaac"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "reviewcount": "46400",
+                        "ratingvalue": "9",
+                        "worstrating": "1",
+                        "description": "Very Positive",
+                        "bestrating": "10"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/capsule_616x353.jpg?t=1643480517",
+                        "theme-color": "#171a21",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The Binding of Isaac on Steam",
+                        "og:type": "website",
+                        "og:title": "The Binding of Isaac on Steam",
+                        "og:description": "Now 20% More Evil with the Free Halloween update!",
+                        "twitter:image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/capsule_616x353.jpg?t=1643480517",
+                        "fb:app_id": "105386699540688",
+                        "twitter:site": "@steam",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "twitter:description": "Now 20% More Evil with the Free Halloween update!",
+                        "og:site": "Steam",
+                        "og:url": "https://store.steampowered.com/app/113200/The_Binding_of_Isaac/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/capsule_616x353.jpg?t=1643480517"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "The Binding of Isaac",
+                        "photo": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/capsule_231x87.jpg?t=1643480517",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Binding of Isaac: Four Souls - Maestro Media",
+            "htmlTitle": "<b>Binding of Isaac</b>: Four Souls - Maestro Media",
+            "link": "https://maestromedia.com/collections/binding-of-isaac-four-souls",
+            "displayLink": "maestromedia.com",
+            "snippet": "Search our shop · Binding of Isaac: Four Souls.",
+            "htmlSnippet": "Search our shop &middot; <b>Binding of Isaac</b>: Four Souls.",
+            "formattedUrl": "https://maestromedia.com/collections/binding-of-isaac-four-souls",
+            "htmlFormattedUrl": "https://maestromedia.com/collections/<b>binding-of-isaac</b>-four-souls",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n7jQ4JGUXb7JHhWb0eJmVUXvXq0n4vk05m6p1EaPvXIXfXKLHZKX5Dia&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://maestromedia.com/cdn/shop/files/BOI__Card_Packs_Group_1_600x.jpg?v=1738008164",
+                        "theme-color": "#ffffff",
+                        "og:type": "product.group",
+                        "twitter:card": "summary",
+                        "og:site_name": "Maestro Media",
+                        "author": "Maestro Media",
+                        "og:title": "Binding of Isaac: Four Souls",
+                        "shopify-checkout-api-token": "80a3cfd7bc42f76bed65967fb5ca3472",
+                        "og:image:secure_url": "https://maestromedia.com/cdn/shop/files/BOI__Card_Packs_Group_1_600x.jpg?v=1738008164",
+                        "facebook-domain-verification": "u2e007q83itzthjhpdn199alt3wn5t",
+                        "twitter:site": "@TheMaestroTeam?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "shopify-digital-wallet": "/9462022244/digital_wallets/dialog",
+                        "og:url": "https://maestromedia.com/collections/binding-of-isaac-four-souls"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://maestromedia.com/cdn/shop/files/BIO__Four_Souls_1600x.jpg?v=1732569052"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Binding of Isaac (video game) - Wikipedia",
+            "htmlTitle": "<b>The Binding of Isaac</b> (video game) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The Binding of Isaac (video game) ... For the Biblical story, see Binding of Isaac. For the game's 2014 remake, see The Binding of Isaac: Rebirth. The Binding of ...",
+            "htmlSnippet": "<b>The Binding of Isaac</b> (video game) ... For the Biblical story, see <b>Binding of Isaac</b>. For the game&#39;s 2014 remake, see <b>The Binding of Isaac</b>: Rebirth. <b>The Binding of</b>&nbsp;...",
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>The_Binding_of_Isaac</b>_(video_game)",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Binding_of_isaac_header.jpg",
+                        "theme-color": "#eaecf0",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                        "og:title": "The Binding of Isaac (video game) - Wikipedia",
+                        "og:image:height": "1800",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "The Binding of Isaac"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Binding of Isaac: Rebirth Wiki",
+            "htmlTitle": "<b>Binding of Isaac</b>: Rebirth Wiki",
+            "link": "https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki",
+            "displayLink": "bindingofisaacrebirth.fandom.com",
+            "snippet": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy roguelike elements. Players will accompany Isaac on a quest to escape ...",
+            "htmlSnippet": "<b>The Binding of Isaac</b>: Rebirth is a randomly generated action RPG shooter with heavy roguelike elements. Players will accompany Isaac on a quest to escape&nbsp;...",
+            "formattedUrl": "https://bindingofisaacrebirth.fandom.com/.../Binding_of_Isaac:_Rebirth_W...",
+            "htmlFormattedUrl": "https://<b>bindingofisaac</b>rebirth.fandom.com/.../<b>Binding_of_Isaac</b>:_Rebirth_W...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwL65abDxmB8ST8FhTG-OvsAssG8SoxcO0oU6wXveNItVmVr--zEVqN0&s",
+                        "width": "489",
+                        "height": "103"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.wikia.com/bindingofisaacre_gamepedia/images/b/bc/Wiki.png",
+                        "theme-color": "#eaecf0",
+                        "twitter:card": "summary",
+                        "twitter:title": "Binding of Isaac: Rebirth Wiki",
+                        "og:type": "website",
+                        "twitter:url": "https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki",
+                        "og:title": "Binding of Isaac: Rebirth Wiki",
+                        "og:description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy roguelike elements. Players will accompany Isaac on a quest to escape his mother, facing off against droves of mysterious creatures, discovering secrets, and fighting fearsome bosses. Along the way, Isaac can find bizarre treasures that change his form and give him super-human abilities. But it won't be easy! Rebirth is the remake of the original game that sports a game engine that runs at 60 FPS, pixelated style",
+                        "fb:app_id": "112328095453510",
+                        "twitter:site": "@getfandom",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                        "twitter:description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy roguelike elements. Players will accompany Isaac on a quest to escape his mother, facing off against droves of...",
+                        "og:url": "https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.wikia.com/bindingofisaacre_gamepedia/images/b/bc/Wiki.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Just bought Binding of Isaac, any tips for beginners? : r/bindingofisaac",
+            "htmlTitle": "Just bought <b>Binding of Isaac</b>, any tips for beginners? : r/bindingofisaac",
+            "link": "https://www.reddit.com/r/bindingofisaac/comments/obiay8/just_bought_binding_of_isaac_any_tips_for/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Jul 1, 2021 ... Try not to get discouraged, there's a lot of stuff to learn. Start on Normal mode as Hard actually is much harder as of the Repentance DLC.",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> Try not to get discouraged, there&#39;s a lot of stuff to learn. Start on Normal mode as Hard actually is much harder as of the Repentance DLC.",
+            "formattedUrl": "https://www.reddit.com/.../bindingofisaac/.../just_bought_binding_of_isaac...",
+            "htmlFormattedUrl": "https://www.reddit.com/.../<b>bindingofisaac</b>/.../just_bought_<b>binding_of_isaac</b>...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jHqLrp6RqmNBIQmRHwmkkezFiMbs5a_-836iD_7JFOAguc2zG6_0zFA&s",
+                        "width": "352",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://preview.redd.it/xp563yfnnk871.png?width=1080&crop=smart&auto=webp&s=a09d33d63e3cbf712e42e7d0c12800da2cee6901",
+                        "theme-color": "#000000",
+                        "og:image:width": "1080",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "r/bindingofisaac on Reddit: Just bought Binding of Isaac, any tips for beginners?",
+                        "og:site_name": "Reddit",
+                        "og:title": "r/bindingofisaac on Reddit: Just bought Binding of Isaac, any tips for beginners?",
+                        "og:image:height": "441",
+                        "msapplication-navbutton-color": "#000000",
+                        "og:description": "Posted by u/BPlayinMan - 1,670 votes and 678 comments",
+                        "twitter:image": "https://preview.redd.it/xp563yfnnk871.png?width=1080&crop=smart&auto=webp&s=a09d33d63e3cbf712e42e7d0c12800da2cee6901",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@reddit",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:ttl": "600",
+                        "og:url": "https://www.reddit.com/r/bindingofisaac/comments/obiay8/just_bought_binding_of_isaac_any_tips_for/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://preview.redd.it/xp563yfnnk871.png?width=1080&crop=smart&auto=webp&s=a09d33d63e3cbf712e42e7d0c12800da2cee6901"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Binding of Isaac: Rebirth on the App Store",
+            "htmlTitle": "<b>The Binding of Isaac</b>: Rebirth on the App Store",
+            "link": "https://apps.apple.com/us/app/the-binding-of-isaac-rebirth/id1069549814",
+            "displayLink": "apps.apple.com",
+            "snippet": "The Binding of Isaac: Rebirth is the randomly generated action RPG shooter that started the new roguelike era. Following Isaac on his journey, players will find ...",
+            "htmlSnippet": "<b>The Binding of Isaac</b>: Rebirth is the randomly generated action RPG shooter that started the new roguelike era. Following Isaac on his journey, players will find&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/us/app/the-binding-of-isaac-rebirth/id1069549814",
+            "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>the-binding-of-isaac</b>-rebirth/id1069549814",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_LnHhwJFlCo7cwkzQvM_nJl1fuqIoW8a_9eurN5W09-aczm5Bp1II5PX&s",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/1c/95/a71c95f3-76f7-aed9-e873-29eff9ec7fbc/AppIcon-iOS-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎\"When Isaac’s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement, where he faces droves of deranged enemies, lost brothers and sisters, his fears and eventually his mother.\n\nGameplay\nThe Binding of Isaac: Rebirth is the randomly g…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/1c/95/a71c95f3-76f7-aed9-e873-29eff9ec7fbc/AppIcon-iOS-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/1c/95/a71c95f3-76f7-aed9-e873-29eff9ec7fbc/AppIcon-iOS-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222504.1.0%2B131c109f%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "The Binding of Isaac: Rebirth on the App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "The Binding of Isaac: Rebirth on the App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎The Binding of Isaac: Rebirth",
+                        "og:title": "‎The Binding of Isaac: Rebirth",
+                        "og:image:height": "630",
+                        "version": "2504.1.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎\"When Isaac’s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement, where he faces droves of deranged enemies, lost brothers and sisters, his fears and eventually his mother.\n\nGameplay\nThe Binding of Isaac: Rebirth is the randomly g…",
+                        "og:locale": "en_US",
+                        "apple:content_id": "1069549814",
+                        "og:url": "https://apps.apple.com/us/app/the-binding-of-isaac-rebirth/id1069549814"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/63/32/04/633204cb-ac0a-28af-2e03-14d308c68098/21f77c27-61eb-457b-a463-0a9a0ee1eb92_iOSsac_Screen05.png/643x0w.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Should I buy The Binding of Isaac? : r/ShouldIbuythisgame",
+            "htmlTitle": "Should I buy <b>The Binding of Isaac</b>? : r/ShouldIbuythisgame",
+            "link": "https://www.reddit.com/r/ShouldIbuythisgame/comments/ro1tg9/should_i_buy_the_binding_of_isaac/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Dec 25, 2021 ... Comments Section ... The binding of isaac has consistently been one of my favorite games for the past decade. I've played the OG flash version, ...",
+            "htmlSnippet": "Dec 25, 2021 <b>...</b> Comments Section ... <b>The binding of isaac</b> has consistently been one of my favorite games for the past decade. I&#39;ve played the OG flash version,&nbsp;...",
+            "formattedUrl": "https://www.reddit.com/r/.../ro1tg9/should_i_buy_the_binding_of_isaac/",
+            "htmlFormattedUrl": "https://www.reddit.com/r/.../ro1tg9/should_i_buy_<b>the_binding_of_isaac</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://share.redd.it/preview/post/ro1tg9",
+                        "theme-color": "#000000",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:image:alt": "An image containing a preview of the post",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "r/ShouldIbuythisgame on Reddit: Should I buy The Binding of Isaac?",
+                        "og:site_name": "Reddit",
+                        "og:title": "r/ShouldIbuythisgame on Reddit: Should I buy The Binding of Isaac?",
+                        "og:image:height": "630",
+                        "msapplication-navbutton-color": "#000000",
+                        "og:description": "Posted by u/Jellybean720 - 90 votes and 31 comments",
+                        "twitter:image": "https://share.redd.it/preview/post/ro1tg9",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@reddit",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:ttl": "600",
+                        "og:url": "https://www.reddit.com/r/ShouldIbuythisgame/comments/ro1tg9/should_i_buy_the_binding_of_isaac/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://share.redd.it/preview/post/ro1tg9"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Edmund McMillen (@edmundmcmillen) / X",
+            "htmlTitle": "Edmund McMillen (@edmundmcmillen) / X",
+            "link": "https://x.com/edmundmcmillen?lang=en",
+            "displayLink": "x.com",
+            "snippet": "I made the Binding of Isaac + Super Meat Boy + The End is Nigh + Legend of Bum-bo + Four Souls & was in that movie you saw about nerds! working on #Mewgenics!",
+            "htmlSnippet": "I made <b>the Binding of Isaac</b> + Super Meat Boy + The End is Nigh + Legend of Bum-bo + Four Souls &amp; was in that movie you saw about nerds! working on #Mewgenics!",
+            "formattedUrl": "https://x.com/edmundmcmillen?lang=en",
+            "htmlFormattedUrl": "https://x.com/edmundmcmillen?lang=en",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hDjdqEbpbu0DOwUhwopIqMn_OZwgfWuPK3dGPWJlD9nNnecqlX3_Sk8&s",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "contenturl": "https://pbs.twimg.com/media/GkNjPMEbUAEJKw8.jpg",
+                        "width": "1536",
+                        "caption": "Image",
+                        "thumbnailurl": "https://pbs.twimg.com/media/GkNjPMEbUAEJKw8?format=jpg&name=thumb"
+                    },
+                    {
+                        "contenturl": "https://pbs.twimg.com/media/GkFlagQXYAAl3hm.jpg",
+                        "width": "1920",
+                        "caption": "Image",
+                        "thumbnailurl": "https://pbs.twimg.com/media/GkFlagQXYAAl3hm?format=jpg&name=thumb"
+                    },
+                    {
+                        "contenturl": "https://pbs.twimg.com/media/Gj-KPj8boAAJiyT.jpg",
+                        "width": "942",
+                        "caption": "Image",
+                        "thumbnailurl": "https://pbs.twimg.com/media/Gj-KPj8boAAJiyT?format=jpg&name=thumb"
+                    }
+                ],
+                "person": [
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "1767132300284940288",
+                        "givenname": "Le Myn ❌️",
+                        "additionalname": "Mynt3r_"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "1384920775120064522",
+                        "givenname": "Drawing Mew-Genics Everyday",
+                        "additionalname": "dailymewgenics"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "38355920",
+                        "givenname": "Tyler Glaiel",
+                        "additionalname": "TylerGlaiel"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "38355920",
+                        "givenname": "Tyler Glaiel",
+                        "additionalname": "TylerGlaiel"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "38355920",
+                        "givenname": "Tyler Glaiel",
+                        "additionalname": "TylerGlaiel"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    },
+                    {
+                        "identifier": "77059348",
+                        "givenname": "🜏 Edmund McMillen 🜏",
+                        "additionalname": "edmundmcmillen"
+                    }
+                ],
+                "interactioncounter": [
+                    {
+                        "userinteractioncount": "20599",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1840450536308691215/likes"
+                    },
+                    {
+                        "userinteractioncount": "3175",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1840450536308691215/retweets"
+                    },
+                    {
+                        "userinteractioncount": "127",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1840450536308691215/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "398",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1840450536308691215"
+                    },
+                    {
+                        "userinteractioncount": "959966",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "347",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1892465384579559819/likes"
+                    },
+                    {
+                        "userinteractioncount": "15",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1892465384579559819/retweets"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1892465384579559819/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "10",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1892465384579559819"
+                    },
+                    {
+                        "userinteractioncount": "7575",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "575",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/Mynt3r_/status/1892347032888574208/likes"
+                    },
+                    {
+                        "userinteractioncount": "94",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/Mynt3r_/status/1892347032888574208/retweets"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/Mynt3r_/status/1892347032888574208/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/Mynt3r_/status/1892347032888574208"
+                    },
+                    {
+                        "userinteractioncount": "11817",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "132",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/dailymewgenics/status/1891905221913137363/likes"
+                    },
+                    {
+                        "userinteractioncount": "13",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/dailymewgenics/status/1891905221913137363/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/dailymewgenics/status/1891905221913137363/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/dailymewgenics/status/1891905221913137363"
+                    },
+                    {
+                        "userinteractioncount": "11739",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "1091",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891740728235057373/likes"
+                    },
+                    {
+                        "userinteractioncount": "24",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891740728235057373/retweets"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891740728235057373/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "20",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891740728235057373"
+                    },
+                    {
+                        "userinteractioncount": "27824",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "168",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891673996350886357/likes"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891673996350886357/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891673996350886357/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891673996350886357"
+                    },
+                    {
+                        "userinteractioncount": "18195",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "91",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891674697730859307/likes"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891674697730859307/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891674697730859307/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891674697730859307"
+                    },
+                    {
+                        "userinteractioncount": "16027",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "154",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891669196209057987/likes"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891669196209057987/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891669196209057987/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "70",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891669196209057987"
+                    },
+                    {
+                        "userinteractioncount": "20024",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "476",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891640691018604576/likes"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891640691018604576/retweets"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891640691018604576/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "9",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891640691018604576"
+                    },
+                    {
+                        "userinteractioncount": "29048",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "362",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891589189281398948/likes"
+                    },
+                    {
+                        "userinteractioncount": "9",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891589189281398948/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891589189281398948/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "7",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891589189281398948"
+                    },
+                    {
+                        "userinteractioncount": "26356",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "2442",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891506457746583759/likes"
+                    },
+                    {
+                        "userinteractioncount": "138",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891506457746583759/retweets"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891506457746583759/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "25",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891506457746583759"
+                    },
+                    {
+                        "userinteractioncount": "58440",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "211",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384386941010314/likes"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384386941010314/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384386941010314/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384386941010314"
+                    },
+                    {
+                        "userinteractioncount": "21484",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "188",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384036087460005/likes"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384036087460005/retweets"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384036087460005/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384036087460005"
+                    },
+                    {
+                        "userinteractioncount": "21125",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "132",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891383518900470091/likes"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891383518900470091/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891383518900470091/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891383518900470091"
+                    },
+                    {
+                        "userinteractioncount": "17485",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "412",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891382371607253462/likes"
+                    },
+                    {
+                        "userinteractioncount": "9",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891382371607253462/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891382371607253462/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891382371607253462"
+                    },
+                    {
+                        "userinteractioncount": "20906",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "1756",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891381384440414665/likes"
+                    },
+                    {
+                        "userinteractioncount": "62",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891381384440414665/retweets"
+                    },
+                    {
+                        "userinteractioncount": "14",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891381384440414665/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "14",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891381384440414665"
+                    },
+                    {
+                        "userinteractioncount": "75262",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "189",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380660721361273/likes"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380660721361273/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380660721361273/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380660721361273"
+                    },
+                    {
+                        "userinteractioncount": "16088",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "474",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380075091669423/likes"
+                    },
+                    {
+                        "userinteractioncount": "14",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380075091669423/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380075091669423/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380075091669423"
+                    },
+                    {
+                        "userinteractioncount": "21366",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "800",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891379525465879033/likes"
+                    },
+                    {
+                        "userinteractioncount": "12",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891379525465879033/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891379525465879033/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "11",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891379525465879033"
+                    },
+                    {
+                        "userinteractioncount": "33331",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "72",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378994114625718/likes"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378994114625718/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378994114625718/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378994114625718"
+                    },
+                    {
+                        "userinteractioncount": "14870",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    },
+                    {
+                        "userinteractioncount": "267",
+                        "interactiontype": "https://schema.org/LikeAction",
+                        "name": "Likes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378749234647324/likes"
+                    },
+                    {
+                        "userinteractioncount": "12",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Retweets",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378749234647324/retweets"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Quotes",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378749234647324/retweets/with_comments"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "https://schema.org/InteractAction",
+                        "name": "Replies",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378749234647324"
+                    },
+                    {
+                        "userinteractioncount": "28170",
+                        "interactiontype": "https://schema.org/ViewAction"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://pbs.twimg.com/profile_images/1845872129218433026/GEaeOOPR_200x200.jpg",
+                        "theme-color": "#FFFFFF",
+                        "og:type": "profile",
+                        "og:site_name": "X (formerly Twitter)",
+                        "al:ios:app_name": "X",
+                        "apple-mobile-web-app-title": "Twitter",
+                        "og:title": "🜏 Edmund McMillen 🜏 (@edmundmcmillen) on X",
+                        "al:android:package": "com.twitter.android",
+                        "al:ios:url": "twitter://user?screen_name=edmundmcmillen",
+                        "title": "🜏 Edmund McMillen 🜏 (@edmundmcmillen) on X",
+                        "og:description": "I made the Binding of Isaac + Super Meat Boy + The End is Nigh + Legend of Bum-bo + Four Souls & was in that movie you saw about nerds! working on #Mewgenics!!!",
+                        "al:ios:app_store_id": "333903271",
+                        "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                        "al:android:url": "twitter://user?screen_name=edmundmcmillen",
+                        "fb:app_id": "2231777543",
+                        "apple-mobile-web-app-status-bar-style": "white",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://x.com/edmundmcmillen",
+                        "al:android:app_name": "X"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "duration": "PT0H0M0S",
+                        "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1892347032888574208",
+                        "contenturl": "https://video.twimg.com/tweet_video/GkL3QGAWEAE813x.mp4",
+                        "uploaddate": "2025-02-19T22:54:25.000Z",
+                        "name": "@Mynt3r_'s video Tweet",
+                        "description": "Embedded video",
+                        "caption": "Embedded video",
+                        "thumbnailurl": "https://pbs.twimg.com/tweet_video_thumb/GkL3QGAWEAE813x.jpg"
+                    },
+                    {
+                        "duration": "PT0H0M1S",
+                        "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1891740728235057373",
+                        "contenturl": "https://video.twimg.com/amplify_video/1891740721595678721/vid/avc1/720x960/wjalIHfjcbB6nFwU.mp4?tag=16",
+                        "uploaddate": "2025-02-18T06:45:11.000Z",
+                        "name": "@edmundmcmillen's video Tweet",
+                        "description": "Embedded video",
+                        "caption": "Embedded video",
+                        "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1891740721595678721/img/nFdBruNuKAduev-f.jpg"
+                    }
+                ],
+                "collection": [
+                    {
+                        "name": "Profile posts"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "name": "Expanded Tweet URLs",
+                        "url": "https://t.co/hi0xcgwN3h"
+                    },
+                    {
+                        "name": "Expanded Tweet URLs",
+                        "url": "https://t.co/lRIuOWMfPi"
+                    },
+                    {
+                        "name": "Expanded Tweet URLs",
+                        "url": "https://t.co/y6v8YpN9kp"
+                    },
+                    {
+                        "name": "Expanded Tweet URLs",
+                        "url": "https://t.co/8ML5vIh1WW"
+                    },
+                    {
+                        "name": "Expanded Tweet URLs",
+                        "url": "https://t.co/NphcoDOU38"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pbs.twimg.com/profile_images/1845872129218433026/GEaeOOPR_200x200.jpg"
+                    }
+                ],
+                "socialmediaposting": [
+                    {
+                        "identifier": "1840450536308691215",
+                        "commentcount": "398",
+                        "articlebody": "Updates: The Isaac online update is coming in Nov! BibleThump leaves twitch Oct 1st, looking into 3rd party options. I have no Fortnite updates Mewgenics is releasing mid next year! Wishlist...",
+                        "position": "1",
+                        "datecreated": "2024-09-29T17:56:16.000Z",
+                        "datepublished": "2024-09-29T17:56:16.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1840450536308691215"
+                    },
+                    {
+                        "identifier": "1892465384579559819",
+                        "commentcount": "10",
+                        "articlebody": "The soon to be polished family tree. Just a normal cat breeding game! http://Mewgenics.com ( go wishlist it!)",
+                        "position": "2",
+                        "datecreated": "2025-02-20T06:44:42.000Z",
+                        "datepublished": "2025-02-20T06:44:42.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1892465384579559819"
+                    },
+                    {
+                        "identifier": "1892353806425280658",
+                        "position": "3",
+                        "datecreated": "2025-02-19T23:21:20.000Z",
+                        "datepublished": "2025-02-19T23:21:20.000Z"
+                    },
+                    {
+                        "identifier": "1892347032888574208",
+                        "commentcount": "3",
+                        "articlebody": "LOOK OUT!, MOVE FAST!, JUMP UP! @edmundmcmillen @SuperMeatBoy #supermeatboy #lowpoly #Blockbench",
+                        "datecreated": "2025-02-19T22:54:25.000Z",
+                        "datepublished": "2025-02-19T22:54:25.000Z",
+                        "url": "https://twitter.com/Mynt3r_/status/1892347032888574208"
+                    },
+                    {
+                        "identifier": "1891954859777327174",
+                        "position": "4",
+                        "datecreated": "2025-02-18T20:56:04.000Z",
+                        "datepublished": "2025-02-18T20:56:04.000Z"
+                    },
+                    {
+                        "identifier": "1891905221913137363",
+                        "commentcount": "2",
+                        "articlebody": "DAY 1400(!!!!!!!!!!!!!!!!!!!!!!!!!!) - VS BORIS Looks like these cats are facing quite the behemoth in the sewers!!!",
+                        "datecreated": "2025-02-18T17:38:49.000Z",
+                        "datepublished": "2025-02-18T17:38:49.000Z",
+                        "url": "https://twitter.com/dailymewgenics/status/1891905221913137363"
+                    },
+                    {
+                        "identifier": "1891740728235057373",
+                        "commentcount": "20",
+                        "articlebody": "This is my youngest daughter minnow. And this is her vibe. ( she’s an eyeball )",
+                        "position": "5",
+                        "datecreated": "2025-02-18T06:45:11.000Z",
+                        "datepublished": "2025-02-18T06:45:11.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891740728235057373"
+                    },
+                    {
+                        "identifier": "1891693398467182878",
+                        "position": "6",
+                        "datecreated": "2025-02-18T03:37:06.000Z",
+                        "datepublished": "2025-02-18T03:37:06.000Z"
+                    },
+                    {
+                        "identifier": "1891673996350886357",
+                        "commentcount": "1",
+                        "articlebody": "Everything has tooltips, this isn't isaac and it would be literally impossible to play without tooltips",
+                        "datecreated": "2025-02-18T02:20:00.000Z",
+                        "isbasedon": "https://twitter.com/szkierson/status/1891672357489488329",
+                        "datepublished": "2025-02-18T02:20:00.000Z",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891673996350886357"
+                    },
+                    {
+                        "identifier": "1891693316007198992",
+                        "position": "7",
+                        "datecreated": "2025-02-18T03:36:47.000Z",
+                        "datepublished": "2025-02-18T03:36:47.000Z"
+                    },
+                    {
+                        "identifier": "1891674697730859307",
+                        "commentcount": "1",
+                        "articlebody": "yes",
+                        "datecreated": "2025-02-18T02:22:48.000Z",
+                        "isbasedon": "https://twitter.com/JackieJasp12694/status/1891673462281740581",
+                        "datepublished": "2025-02-18T02:22:48.000Z",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891674697730859307"
+                    },
+                    {
+                        "identifier": "1891671504997200277",
+                        "position": "8",
+                        "datecreated": "2025-02-18T02:10:07.000Z",
+                        "datepublished": "2025-02-18T02:10:07.000Z"
+                    },
+                    {
+                        "identifier": "1891669196209057987",
+                        "commentcount": "70",
+                        "articlebody": "I got some time, ask me questions about Mewgenics",
+                        "datecreated": "2025-02-18T02:00:56.000Z",
+                        "datepublished": "2025-02-18T02:00:56.000Z",
+                        "url": "https://twitter.com/TylerGlaiel/status/1891669196209057987"
+                    },
+                    {
+                        "identifier": "1891640691018604576",
+                        "commentcount": "9",
+                        "articlebody": "There is a whole seppuku archetype in one of our classes…",
+                        "position": "9",
+                        "datecreated": "2025-02-18T00:07:40.000Z",
+                        "isbasedon": "https://twitter.com/SpookiYookers/status/1891612583796277266",
+                        "datepublished": "2025-02-18T00:07:40.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891640691018604576"
+                    },
+                    {
+                        "identifier": "1891589189281398948",
+                        "commentcount": "7",
+                        "articlebody": "Cats can bond, but that does mean both will bond together.. there can be love triangles that cause drama.",
+                        "position": "10",
+                        "datecreated": "2025-02-17T20:43:01.000Z",
+                        "isbasedon": "https://twitter.com/mazmorra_la/status/1891541823648051562",
+                        "datepublished": "2025-02-17T20:43:01.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891589189281398948"
+                    },
+                    {
+                        "identifier": "1891506457746583759",
+                        "commentcount": "25",
+                        "articlebody": "Obviously",
+                        "position": "11",
+                        "datecreated": "2025-02-17T15:14:16.000Z",
+                        "isbasedon": "https://twitter.com/Pamka_/status/1891385804947157093",
+                        "datepublished": "2025-02-17T15:14:16.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891506457746583759"
+                    },
+                    {
+                        "identifier": "1891384386941010314",
+                        "commentcount": "4",
+                        "articlebody": "There will be an in depth family tree",
+                        "position": "12",
+                        "datecreated": "2025-02-17T07:09:12.000Z",
+                        "isbasedon": "https://twitter.com/Microwa72035937/status/1891376520687415476",
+                        "datepublished": "2025-02-17T07:09:12.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384386941010314"
+                    },
+                    {
+                        "identifier": "1891384036087460005",
+                        "commentcount": "1",
+                        "articlebody": "If your hoard you many cats it will effect the comfort level of the room. Low comfort will cause aggression and lower libido. You also need to feed them or they starve.. those are your limits",
+                        "position": "13",
+                        "datecreated": "2025-02-17T07:07:49.000Z",
+                        "isbasedon": "https://twitter.com/DogenGaming/status/1891376297781133798",
+                        "datepublished": "2025-02-17T07:07:49.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891384036087460005"
+                    },
+                    {
+                        "identifier": "1891383518900470091",
+                        "commentcount": "0",
+                        "articlebody": "We are working on making it easier till the late game. Once you understand how it plays it’s not super hard. It just plays more like a board game than video game. Quite a few of our players...",
+                        "position": "14",
+                        "datecreated": "2025-02-17T07:05:45.000Z",
+                        "isbasedon": "https://twitter.com/Moonnightbari/status/1891376160577065235",
+                        "datepublished": "2025-02-17T07:05:45.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891383518900470091"
+                    },
+                    {
+                        "identifier": "1891382371607253462",
+                        "commentcount": "5",
+                        "articlebody": "How this",
+                        "position": "15",
+                        "datecreated": "2025-02-17T07:01:12.000Z",
+                        "isbasedon": "https://twitter.com/LonganizaConQue/status/1891375912349774253",
+                        "datepublished": "2025-02-17T07:01:12.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891382371607253462"
+                    },
+                    {
+                        "identifier": "1891381384440414665",
+                        "commentcount": "14",
+                        "articlebody": "The worst disorder in the game is psychosis, it’s the only thing in the game that when I get in like .. well fuck. But it only appears in Specific cases now and you are in control of those...",
+                        "position": "16",
+                        "datecreated": "2025-02-17T06:57:16.000Z",
+                        "isbasedon": "https://twitter.com/Slushea/status/1891375636750508135",
+                        "datepublished": "2025-02-17T06:57:16.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891381384440414665"
+                    },
+                    {
+                        "identifier": "1891380660721361273",
+                        "commentcount": "2",
+                        "articlebody": "It’s been the most enjoyable game I’ve worked on to play through development. It’s just incredibly vast and replay able, with each tiny addition it just becomes more alive and unique....",
+                        "position": "17",
+                        "datecreated": "2025-02-17T06:54:24.000Z",
+                        "isbasedon": "https://twitter.com/angelfacepeanut/status/1891375441593704907",
+                        "datepublished": "2025-02-17T06:54:24.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380660721361273"
+                    },
+                    {
+                        "identifier": "1891380075091669423",
+                        "commentcount": "4",
+                        "articlebody": "I’d say the game is 85% done content wise. The bulk of what’s left is polish , balancing and padding systems out a bit more here and there. That isn’t to say we are super close, I really...",
+                        "position": "18",
+                        "datecreated": "2025-02-17T06:52:04.000Z",
+                        "isbasedon": "https://twitter.com/LeateqOfficial/status/1891375417115693127",
+                        "datepublished": "2025-02-17T06:52:04.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891380075091669423"
+                    },
+                    {
+                        "identifier": "1891379525465879033",
+                        "commentcount": "11",
+                        "articlebody": "That’s honestly not a bad idea for a passive effect. Gain +1 speed each time you move, if your speed is 10+ do a sonic boom aoe when you end your movement.",
+                        "position": "19",
+                        "datecreated": "2025-02-17T06:49:53.000Z",
+                        "isbasedon": "https://twitter.com/christianfnffan/status/1891375415169573096",
+                        "datepublished": "2025-02-17T06:49:53.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891379525465879033"
+                    },
+                    {
+                        "identifier": "1891378994114625718",
+                        "commentcount": "0",
+                        "articlebody": "The trailer is a music video and I’m sure we will release at least one more as well",
+                        "position": "20",
+                        "datecreated": "2025-02-17T06:47:46.000Z",
+                        "isbasedon": "https://twitter.com/rainbow_gem2/status/1891375298425356327",
+                        "datepublished": "2025-02-17T06:47:46.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378994114625718"
+                    },
+                    {
+                        "identifier": "1891378749234647324",
+                        "commentcount": "3",
+                        "articlebody": "The first 20+ hours is all world building and allowing the player to figure things out and become familiar with the npcs so the “story” can creep through the gaps and allow you to feel...",
+                        "position": "21",
+                        "datecreated": "2025-02-17T06:46:48.000Z",
+                        "isbasedon": "https://twitter.com/ImDirtyDan113/status/1891375114471477728",
+                        "datepublished": "2025-02-17T06:46:48.000Z",
+                        "url": "https://twitter.com/edmundmcmillen/status/1891378749234647324"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New here, why is The Binding of Isaac considered a roguelite ? : r ...",
+            "htmlTitle": "New here, why is <b>The Binding of Isaac</b> considered a roguelite ? : r ...",
+            "link": "https://www.reddit.com/r/roguelikes/comments/329uzo/new_here_why_is_the_binding_of_isaac_considered_a/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Apr 11, 2015 ... Are you asking because you think it's too roguelikish to be considered \"lite\" or because you think it's so un-roguelike that it shouldn't be on the spectrum?",
+            "htmlSnippet": "Apr 11, 2015 <b>...</b> Are you asking because you think it&#39;s too roguelikish to be considered &quot;lite&quot; or because you think it&#39;s so un-roguelike that it shouldn&#39;t be on the spectrum?",
+            "formattedUrl": "https://www.reddit.com/.../new_here_why_is_the_binding_of_isaac_consid...",
+            "htmlFormattedUrl": "https://www.reddit.com/.../new_here_why_is_<b>the_binding_of_isaac</b>_consid...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOXEcuQPtz6Uj3qcZBvLaAHjspYO_LcksqsWIdDd-CA&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://share.redd.it/preview/post/329uzo",
+                        "theme-color": "#000000",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:image:alt": "An image containing a preview of the post",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "r/roguelikes on Reddit: New here, why is The Binding of Isaac considered a roguelite ?",
+                        "og:site_name": "Reddit",
+                        "og:title": "r/roguelikes on Reddit: New here, why is The Binding of Isaac considered a roguelite ?",
+                        "og:image:height": "630",
+                        "msapplication-navbutton-color": "#000000",
+                        "og:description": "Posted by u/PieruEater - 10 votes and 31 comments",
+                        "twitter:image": "https://share.redd.it/preview/post/329uzo",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@reddit",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:ttl": "600",
+                        "og:url": "https://www.reddit.com/r/roguelikes/comments/329uzo/new_here_why_is_the_binding_of_isaac_considered_a/"
+                    }
+                ],
+                "cse_image": [
+                    {}
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Binding of Isaac: A New Look at an Old Story | Reform Judaism",
+            "htmlTitle": "<b>The Binding of Isaac</b>: A New Look at an Old Story | Reform Judaism",
+            "link": "https://reformjudaism.org/blog/binding-isaac-new-look-old-story",
+            "displayLink": "reformjudaism.org",
+            "snippet": "Nov 6, 2014 ... Commentators talk about Abraham suspending his compassion for his son in order to pursue his perceived will of The Eternal, as if that were a meritorious ...",
+            "htmlSnippet": "Nov 6, 2014 <b>...</b> Commentators talk about Abraham suspending his compassion for his son in order to pursue his perceived will of The Eternal, as if that were a meritorious&nbsp;...",
+            "formattedUrl": "https://reformjudaism.org/blog/binding-isaac-new-look-old-story",
+            "htmlFormattedUrl": "https://reformjudaism.org/blog/<b>binding</b>-<b>isaac</b>-new-look-old-story",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPZNpf1tRn3kK9R2D8ff10wsw_qt6AQAVCrifc_HbigEmK2PPraSfIk9B&s",
+                        "width": "302",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://reformjudaism.org/sites/default/files/Akedah_0.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The Binding of Isaac: A New Look at an Old Story",
+                        "og:site_name": "Reform Judaism",
+                        "og:image:url": "https://reformjudaism.org/sites/default/files/Akedah_0.jpg",
+                        "handheldfriendly": "true",
+                        "og:title": "The Binding of Isaac: A New Look at an Old Story",
+                        "abstract": "The story of",
+                        "og:description": "The story of",
+                        "og:image:secure_url": "https://reformjudaism.org/sites/default/files/Akedah_0.jpg",
+                        "twitter:image": "https://reformjudaism.org/sites/default/files/Akedah_0.jpg",
+                        "facebook-domain-verification": "2dbyp7k7er1ai3vdyopd6mzzsygvmj",
+                        "twitter:image:alt": "The Binding of Isaac: A New Look at an Old Story",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The story of",
+                        "mobileoptimized": "width",
+                        "og:url": "https://reformjudaism.org/blog/binding-isaac-new-look-old-story"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://reformjudaism.org/sites/default/files/Akedah_0.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
